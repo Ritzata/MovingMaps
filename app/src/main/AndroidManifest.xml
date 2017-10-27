@@ -16,9 +16,9 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyAaJbO74OW4nI8WD_em4Nx4vGvzxh_owpI" />
+            android:value="AIzaSyC4ec8fuE-wuehIY5MOXA_5YRfhNDs8QqE" />
 
-        <activity android:name="id.sch.smktelkom_mlg.privateassignment.xirpl131.movingmaps.MainActivity">
+        <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
